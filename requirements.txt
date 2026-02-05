@@ -1,0 +1,10 @@
+streamlit
+tensorflow
+keras
+keras-tuner
+numpy
+pandas
+matplotlib
+Pillow
+pypdf
+openai
